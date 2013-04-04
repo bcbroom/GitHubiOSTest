@@ -139,6 +139,7 @@
 		D344609A170E15F000255FA3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D3446099170E15F000255FA3 /* AppDelegate.m */; };
 		D344609D170E15F000255FA3 /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = D344609C170E15F000255FA3 /* HelloWorldLayer.m */; };
 		D34460A0170E15F000255FA3 /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = D344609F170E15F000255FA3 /* IntroLayer.m */; };
+		D34460A7170E1CE600255FA3 /* bullet.png in Resources */ = {isa = PBXBuildFile; fileRef = D34460A6170E1CE600255FA3 /* bullet.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -420,6 +421,7 @@
 		D344609C170E15F000255FA3 /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
 		D344609E170E15F000255FA3 /* IntroLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
 		D344609F170E15F000255FA3 /* IntroLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
+		D34460A6170E1CE600255FA3 /* bullet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bullet.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -494,6 +496,7 @@
 		D3445F0B170E15EE00255FA3 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				D34460A6170E1CE600255FA3 /* bullet.png */,
 				D3445F0C170E15EE00255FA3 /* Default.png */,
 				D3445F0E170E15EE00255FA3 /* Default@2x.png */,
 				D3445F10170E15EE00255FA3 /* Default-568h@2x.png */,
@@ -933,6 +936,7 @@
 				D3445F1F170E15EE00255FA3 /* Icon@2x.png in Resources */,
 				D3445F22170E15EE00255FA3 /* iTunesArtwork in Resources */,
 				D3446078170E15F000255FA3 /* ChangeLog in Resources */,
+				D34460A7170E1CE600255FA3 /* bullet.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
